@@ -1,3 +1,6 @@
+<img width="1470" alt="dashboard" src="https://github.com/user-attachments/assets/608c9a24-aaea-45a0-bfac-b04f17c053d7" />
+<img width="551" alt="_Model accuracy report + confusion matrix png png" src="https://github.com/user-attachments/assets/fd0eed1a-b57f-405f-9f91-f670486df0c0" />
+
 # PROJECT WORK
 # HR Analytics - Predict Employee Attrition
 
